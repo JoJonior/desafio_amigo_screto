@@ -6,4 +6,5 @@
 
 <h2>Descrição</h2>
 <p>Uma pagina com uma entrada para receber nomes e um botão para sortear esses nomes.</p>
-![Imagen da pagina](https://github.com/user-attachments/assets/3d3fa02b-055c-4a8a-90fd-f41dfa6d15a5)
+
+<img src="https://github.com/user-attachments/assets/3d3fa02b-055c-4a8a-90fd-f41dfa6d15a5" alt="Imagen da pagina">
