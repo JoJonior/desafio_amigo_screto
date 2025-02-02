@@ -19,3 +19,15 @@ function adicionarAmigo(){
     
 
 } 
+
+function AtualizarLista(){
+    let campoAmigosLista =  document.getElementById("listaAmigos")
+    var strArray=''
+    for (var i = 0; i < array_nomes.length; i++){
+          strArray = strArray == '' ? "<li>"+array_nomes[i]+"</li>" : strArray+"<li>"+array_nomes[i]+"</li>"
+          "<li>"+array_nomes[i]+"</li>"
+          
+    }
+    campoAmigosLista.innerHTML = strArray
+
+}
