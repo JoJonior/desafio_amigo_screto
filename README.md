@@ -3,7 +3,8 @@
 <p align="center">
       <img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </p>
-<a href="https://jojonior.github.io/desafio_amigo_screto/">Link do Projeto</a>
+<h2> <a href="https://jojonior.github.io/desafio_amigo_screto/">Link do Projeto</a>  </h2>
+
 <h2>Descrição:</h2>
 <p>Uma pagina com uma entrada para receber nomes e um botão para sortear esses nomes, para reiniciar a lista, recarregue a pagina.</p>
 
